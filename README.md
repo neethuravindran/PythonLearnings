@@ -1,4 +1,4 @@
-# PythonTrainingSamples
+# Python Learning Samples
 Python Samples gives you essential elements you need to kickstart your journey in Python programming. Explore the foundational concepts for Python development. 
 These samples are well suited for beginners and also for experienced programmers. 
 
