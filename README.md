@@ -1,18 +1,27 @@
 # PythonTrainingSamples
-Gives brief idea of what Python is and touch on the basic samples
+Python Samples gives you essential elements you need to kickstart your journey in Python programming. Explore the foundational concepts for Python development. 
+These samples are well suited for beginners and also for experienced programmers. 
 
     NumPy
+    https://www.geeksforgeeks.org/introduction-to-numpy/
     Pandas
+    https://www.geeksforgeeks.org/introduction-to-pandas-in-python/
     Data Visualization
+    https://www.geeksforgeeks.org/data-visualization-and-its-importance/
     File Operations
+    https://www.geeksforgeeks.org/file-handling-python/
     Functions OOPs
+    https://www.geeksforgeeks.org/python-oops-concepts/
 
 **Prerequisites :**
+ 
+  Download and Install Python 3 Latest Version
   Install Pycharm setup / Make use of VS studio Code.
   
 
+Explore and do work out on each python files in this repo w.r.t to questions added below 
 
-Visit each python files in the repo respective to sample workout questions added below  
+The below are questions which is worked out as part of python certification training program
   
 **Training Sample Workout Questions:**
 
